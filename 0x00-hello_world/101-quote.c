@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: 'This program prints the sizes of ome data types'
- * Return: Always 0 (Success)
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
