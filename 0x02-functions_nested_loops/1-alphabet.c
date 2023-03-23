@@ -1,17 +1,5 @@
 #include <stdio.h>
 #include "main.h"
-/**
-* main - Entry point
-* Description: ''
-* Return: Always 0 (Success)
-*/
-
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
-
 
 /**
 * main - Entry point
@@ -24,9 +12,9 @@ void print_alphabet(void)
 	int i;
 	for (i = 0; i < 26; i++)
 	{
-		putchar(c);
+		_putchar(c);
 		c++;
 	}
 
-	putchar('\n');
+	_putchar('\n');
 }
