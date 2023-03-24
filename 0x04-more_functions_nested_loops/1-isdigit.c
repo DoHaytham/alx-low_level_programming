@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _isupper - Function
+* _isdigit - Function
 * Description: 'checks for a digit'
 * @c: The digit to check
 * Return: Nothing (Success)
