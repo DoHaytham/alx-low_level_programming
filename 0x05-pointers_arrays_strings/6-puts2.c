@@ -2,7 +2,7 @@
 #include <string.h>
 /**
 * puts2 - Function
-* Diescription: 'prints every other character of a string, starting with 
+* Diescription: 'prints every other character of a string, starting with
 * the first character, followed by a new line.'
 * @str : the character
 * Return: Nothing (Success)
